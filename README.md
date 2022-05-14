@@ -1,4 +1,7 @@
 ```
+╭─superuser@JonsX in GitHub took 1s
+╰─λ neofetch --ascii_distro computer
+
                    -`                             notsuperuser@JonsX
                   .o+`                            ------------
                  `ooo/                            OS: Android
