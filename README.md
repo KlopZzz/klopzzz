@@ -6,15 +6,15 @@
                   .o+`                            ------------
                  `ooo/                            OS: Arch
                 `+oooo:                           Languages: Python, HTMl, CSS, C++, C#
-               `+oooooo:                          Kernel: 5.17.5-zen1-1-zen
+               `+oooooo:                          Intrests: SysAdmin, CyberSec
                -+oooooo+:                         Uptime: Until 2002
-             `/:-:++oooo+:                        Packages: 1 (pacman)
-            `/++++/+++++++:                       Shell: batch..idk
-           `/++++++++++++++:                      DE: Plasma 5.24.4
-          `/+++ooooooooooooo/`                    WM: KWin
-         ./ooosssso++osssssso+`                   WM Theme: Nothing
-        .oossssso-````/ossssss+`                  Terminal: CMD
-       -osssssso.      :ssssssso.                 CPU: Intel Ryzen 6 1600 (12) @ 3.2GHz
+             `/:-:++oooo+:                        Currently working on: 3 repos
+            `/++++/+++++++:                       Website: klopzzz.github.io
+           `/++++++++++++++:
+          `/+++ooooooooooooo/`
+         ./ooosssso++osssssso+`
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.                 CPU: AMD Ryzen 6 1600 (12) @ 3.2GHz
       :osssssss/        osssso+++.                GPU: OpenGeSource GTX 1070
      /ossssssss/        +ssssooo/-                Memory: 200MiB / 16GiB
    `/ossssso+/:-        -:/+osssso+-
