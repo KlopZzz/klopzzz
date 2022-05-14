@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**KlopZzz/klopzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+                   -`                             notsuperuser@JonsX
+                  .o+`                            ------------
+                 `ooo/                            OS: Android
+                `+oooo:                           Host: Raspberry PI 11
+               `+oooooo:                          Kernel: 5.17.5-zen1-1-zen
+               -+oooooo+:                         Uptime: Until 2002
+             `/:-:++oooo+:                        Packages: 1 (pacman)
+            `/++++/+++++++:                       Shell: batch
+           `/++++++++++++++:                      DE: Lava 5.24.4
+          `/+++ooooooooooooo/`                    WM: KWin
+         ./ooosssso++osssssso+`                   WM Theme: Nothing
+        .oossssso-````/ossssss+`                  Terminal: CMD
+       -osssssso.      :ssssssso.                 CPU: Intel Ryzen 11 1600 (12) @ 9.2GHz
+      :osssssss/        osssso+++.                GPU: Debin ForceGe XTG 4070
+     /ossssssss/        +ssssooo/-                Memory: 200MiB / 100GiB
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `
+ 
+ ```
