@@ -7,9 +7,9 @@
                  `ooo/                            OS: Arch
                 `+oooo:                           Languages: Python, HTMl, CSS, C++, C#
                `+oooooo:                          Intrests: SysAdmin, CyberSec
-               -+oooooo+:                         Uptime: Until 2002
-             `/:-:++oooo+:                        Currently working on: 3 repos
-            `/++++/+++++++:                       Website: klopzzz.github.io
+               -+oooooo+:                         Currently working on: 3 repos
+             `/:-:++oooo+:                        Website: klopzzz.github.io
+            `/++++/+++++++:
            `/++++++++++++++:
           `/+++ooooooooooooo/`
          ./ooosssso++osssssso+`
